@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **John Doe**.
+I'm **Jared**.
 
 - 🌱 I’m currently learning **Machine Learning**.
 
