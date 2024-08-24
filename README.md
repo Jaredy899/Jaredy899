@@ -2,7 +2,7 @@
 
 I'm **Jared**.
 
-- 🌱 I’m currently learning **Machine Learning**.
+- 🌱 I’m currently learning **Mac, Windows, and Linux Scripting**.
 
 ## 🔧 Technologies & Tools
 
