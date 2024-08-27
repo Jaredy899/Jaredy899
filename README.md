@@ -2,7 +2,7 @@
 
 I'm **Jared**.
 
-- 🌱 I’m currently learning **Mac, Windows, and Linux Scripting**.
+- 🌱 I’m currently learning **Mac, Windows, and Linux Scripting**. I work in mental health so this is just my hobby. 
 
 ## 🔧 Technologies & Tools
 
