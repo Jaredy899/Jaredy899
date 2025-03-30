@@ -22,6 +22,7 @@ I'm **Jared**, a mental health professional with a passion for tech.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
 ## 🚀 Current Projects
 
