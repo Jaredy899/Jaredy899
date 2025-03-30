@@ -4,7 +4,6 @@ I'm **Jared**, a mental health professional with a passion for tech.
 
 ## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Mac, Windows, and Linux Scripting**
 - 💼 Working in mental health as my primary career
 - 🔍 Tech enthusiast focusing on automation and system administration
 - 🛠️ Exploring the intersection of technology and mental health solutions
