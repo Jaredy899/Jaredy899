@@ -6,7 +6,6 @@ I'm **Jared**, a mental health professional with a passion for tech.
 
 - 💼 Working in mental health as my primary career
 - 🔍 Tech enthusiast focusing on automation and system administration
-- 🛠️ Exploring the intersection of technology and mental health solutions
 
 ## 🔧 Technologies & Tools
 
@@ -29,14 +28,17 @@ I'm **Jared**, a mental health professional with a passion for tech.
 ![PowerShell](https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](#)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)](#)
 
 ## 🚀 Current Projects
 
 - 📝 Developing automation scripts for daily workflows
 - 🖥️ Setting up homelab environments with Docker
+- 🌐 Learning modern web development with React and Astro
 
 
-## 📊 GitHub Stats
+## �� GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaredy899&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredy899&layout=compact&theme=radical)
