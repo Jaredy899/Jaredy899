@@ -29,16 +29,17 @@ I'm **Jared**, a mental health professional with a passion for tech.
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](#)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)](#)
 
 ## 🚀 Current Projects
 
 - 📝 Developing automation scripts for daily workflows
 - 🖥️ Setting up homelab environments with Docker
-- 🌐 Learning modern web development with React and Astro
+- 🌐 Learning modern web development with React, Next.js, and Astro
 
 
-## �� GitHub Stats
+##  GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaredy899&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredy899&layout=compact&theme=radical)
