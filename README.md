@@ -1,11 +1,12 @@
-# Hi there! 👋
+# Welcome 👋
 
-I'm **Jared**, a mental health professional with a passion for tech.
+I'm **Jared**, a mental health professional specializing in early episode psychosis intervention, with a passion for tech.
 
 ## 👨‍💻 About Me
 
 - 💼 Working in mental health as my primary career
-- 🔍 Tech enthusiast focusing on automation and system administration
+- 🔍 Tech enthusiast passionate about coding and continuous learning
+- 🖖 Exploring strange new technologies and boldly going where my curiosity leads
 
 ## 🔧 Technologies & Tools
 
@@ -26,17 +27,23 @@ I'm **Jared**, a mental health professional with a passion for tech.
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 ![PowerShell](https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+
+### Web Development
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](#)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)](#)
+[![Nuxt](https://img.shields.io/badge/Nuxt-020420?logo=nuxt)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-282C34?logo=Svelte)](#)
+[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=white)](#)
 
 ## 🚀 Current Projects
 
-- 📝 Developing automation scripts for daily workflows
+- 📝 Developing scripts for daily workflows
 - 🖥️ Setting up homelab environments with Docker
-- 🌐 Learning modern web development with React, Next.js, and Astro
+- 🌐 Learning modern web development
 
 
 ##  GitHub Stats
