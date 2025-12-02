@@ -17,7 +17,7 @@ I'm **Jared**, a mental health professional specializing in early episode psycho
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![Solus](https://img.shields.io/badge/-Solus-5294E2?style=flat&logo=solus&logoColor=white"/>)]($)
+[![Solus](https://img.shields.io/badge/-Solus-5294E2?style=flat&logo=solus&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 ### Development & Deployment
