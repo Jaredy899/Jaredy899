@@ -1,13 +1,6 @@
 # Welcome 👋
 
-I'm **Jared**, a mental health professional specializing in early episode psychosis intervention, with a passion for tech.
-
-## 👨‍💻 About Me
-
-- 💼 Working in mental health as my primary career
-- 🔍 Tech enthusiast passionate about coding and continuous learning
-- 🖖 Exploring strange new technologies and boldly going where my curiosity leads
-- ⛵ I try to contribute to [Solus](https://getsol.us/)
+I'm **Jared** — mental health (early psychosis) by day, tech enthusiast by night. 🖖 Boldly going where my curiosity leads.
 
 ## 🔧 Technologies & Tools
 
@@ -34,8 +27,8 @@ I'm **Jared**, a mental health professional specializing in early episode psycho
 
 ##  GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaredy899&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredy899&layout=compact&theme=radical)
+![My GitHub Stats](https://readme-stats-github.pages.dev/api?username=Jaredy899)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Jaredy899)
 
 ---
 
