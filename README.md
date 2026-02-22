@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm **Jared** — mental health (early psychosis) by day, tech enthusiast by night. 🖖 Boldly going where my curiosity leads.
+I'm **Jared** — mental health (early psychosis) practitioner by day, tech enthusiast by night. 🖖 Boldly going where my curiosity leads.
 
 ## 🔧 Technologies & Tools
 
